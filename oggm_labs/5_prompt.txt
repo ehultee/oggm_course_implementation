@@ -1,0 +1,10 @@
+Lab 5, Forecasting glacier water resources - lab report prompt - due 3 Dec 2021
+
+Complete Lab 5, Forecasting Glacier Water Resources with OGGM, and produce a lab report 
+following the template.  I've formatted the template to give the feel of a scientific paper.
+More detailed steps are outlined on the Lab 5 handout provided in class.  
+
+As you are writing your report, you may find these tips from the University of Toronto helpful.
+
+Note that this lab is more free-form than the previous ones, so make sure that you have 
+adequately described the Methods for a general reader.

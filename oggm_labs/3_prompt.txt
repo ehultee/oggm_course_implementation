@@ -1,0 +1,10 @@
+Lab 3, Modelling Glacier Sliding - assignment prompt - Due 29 Oct 2021
+
+
+
+Complete Lab 3, Modelling Glacier Sliding with OGGM, and produce a lab report following the template.
+I've formatted the template to give the feel of a scientific paper--
+ the example text is based on a manuscript I am working on in my own research.
+
+As you are writing your report, you may find these tips from the University of Toronto helpful.
+

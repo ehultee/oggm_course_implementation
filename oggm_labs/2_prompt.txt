@@ -1,0 +1,11 @@
+Lab 2, Modelling Glacier Mass Balance - lab report prompt - due 15 Oct 2021
+
+Create a basic lab report by filling in the template.
+The questions provided will outline where to focus your thinking.
+Experiment 1 refers to Notebook 1, glacier_bed_slope.ipynb, from Tuesday lab.  
+Experiment 2 refers to Notebook 2, mass_balance.ipynb, which we will work through on Thursday.
+ 
+This lab report aims to prepare you for more formal lab reports later on.  It will require 
+more self-directed writing than the previous one, for example in the Introduction and Methods 
+sections, but does not yet require an abstract.  Everyone will receive full marks for the 
+"Abstract" category of the rubric below.

@@ -1,0 +1,9 @@
+Lab 4, Modelling runoff and peak water - lab report prompt - due 16 Nov 2021
+Complete Lab 4, Modelling Glacier Water Resources with OGGM, and produce a lab report following 
+the template  Download template.  I've formatted the template to give the feel of a scientific paper.  
+
+You have some flexibility in answering the scientific question - How will annual and seasonal 
+glacier runoff change in a warming climate?  Make sure that you include enough information 
+to support your conclusions, and that you fully explain the figures and results you do include.
+
+As you are writing your report, you may find these tips from the University of Toronto helpful.
